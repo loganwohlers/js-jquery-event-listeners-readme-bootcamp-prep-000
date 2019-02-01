@@ -12,7 +12,7 @@ function frameIt(){
 
 funtion pressIt(){
   $(document).on('keydown', function(key){
-    
+    if (key.which==)
   })
 }
 
