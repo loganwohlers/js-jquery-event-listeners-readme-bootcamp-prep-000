@@ -10,6 +10,11 @@ function frameIt(){
   });
 }
 
+funtion pressIt(){
+  $(document).on('keydown', function(key){
+    
+  })
+}
 
 
 $(document).ready(function(){
